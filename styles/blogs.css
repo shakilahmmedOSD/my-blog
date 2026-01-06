@@ -1,0 +1,19 @@
+nav li a {
+    text-decoration: none;
+}
+nav li {
+    list-style: none;
+    display: inline;
+    margin-right: 15px;
+}
+nav li:hover {
+    background-color: aqua;
+}
+footer {
+    text-align: center;
+}
+img{
+   display: block;
+   width: 50%;
+   margin: 0 auto;
+}
